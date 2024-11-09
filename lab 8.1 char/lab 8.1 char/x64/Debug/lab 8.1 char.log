@@ -1,0 +1,4 @@
+﻿  lab 8.1 char.cpp
+C:\Users\admin\source\repos\lab 8.1 char\lab 8.1 char\lab 8.1 char.cpp(9,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\lab 8.1 char\lab 8.1 char\lab 8.1 char.cpp(25,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab 8.1 char.vcxproj -> C:\Users\admin\source\repos\lab 8.1 char\x64\Debug\lab 8.1 char.exe
